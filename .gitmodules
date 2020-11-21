@@ -1,0 +1,3 @@
+[submodule "pack/myplugins/opt/clang_complete"]
+	path = pack/myplugins/opt/clang_complete
+	url = https://github.com/xavierd/clang_complete.git
